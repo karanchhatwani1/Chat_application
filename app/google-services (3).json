@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032446860748",
+    "firebase_url": "https://chhat-503f6.firebaseio.com",
+    "project_id": "chhat-503f6",
+    "storage_bucket": "chhat-503f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032446860748:android:74bc55fc309a83981ad169",
+        "android_client_info": {
+          "package_name": "com.example.android.chhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032446860748-h4v5ch98vqr0v6kj80l7fu6lgkaek62g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.chhat",
+            "certificate_hash": "45bc36fee760591356b3d8db0b3bdc4bafceb0f7"
+          }
+        },
+        {
+          "client_id": "1032446860748-dmj0l63u82cl0b19o09lkdcirkgm96v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKCw9w-8-rZlK3dQTrlSUdr6Cqk2RnJks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032446860748-dmj0l63u82cl0b19o09lkdcirkgm96v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

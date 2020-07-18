@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Chhat</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="log_out">Log Out</string>
+    <string name="welcome_to_chat_app">Welcome To Chat App</string>
+    <string name="need_a_new_account">Need A New Account</string>
+    <string name="create_a_new_account">Create A New Account</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="create_a_new_accounts">Create_a_new_account</string>
+    <string name="account_already_exist">Account Already Exist</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="display_name">Display Name</string>
+    <string name="hi_there_i_am_using_chhat">Hi there i am using chhat</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="account_settings">Account Settings</string>
+</resources>
